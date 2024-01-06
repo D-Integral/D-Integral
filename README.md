@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Dmytro Skorokhod profile views](https://u8views.com/api/v1/github/profiles/8528674/views/day-week-month-total-count.svg)](https://u8views.com/github/D-Integral)
+
 <!--
 **D-Integral/D-Integral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
