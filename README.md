@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Github Stats  
+## GitHub Stats  
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Integral&hide_border=true&layout=compact" align="center" /></div> 
 
