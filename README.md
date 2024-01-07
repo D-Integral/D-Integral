@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+## Github Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Integral&hide_border=true&layout=compact" align="center" /></div> 
+
 [![Dmytro Skorokhod profile views](https://u8views.com/api/v1/github/profiles/8528674/views/day-week-month-total-count.svg)](https://u8views.com/github/D-Integral)
+
+## LeetCode Stats 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dmytryk)](https://github.com/KnlnKS/leetcode-stats)
 
