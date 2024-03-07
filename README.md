@@ -6,10 +6,6 @@
 
 [![Dmytro Skorokhod profile views](https://u8views.com/api/v1/github/profiles/8528674/views/day-week-month-total-count.svg)](https://u8views.com/github/D-Integral)
 
-## LeetCode Stats 
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dmytryk)](https://github.com/KnlnKS/leetcode-stats)
-
 <!--
 **D-Integral/D-Integral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
