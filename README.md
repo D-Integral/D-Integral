@@ -2,6 +2,8 @@
 
 ## GitHub Stats  
 
+![Top Languages Card](https://github-readme-stats.vercel.app)
+
 [![Dmytro Skorokhod profile views](https://u8views.com/api/v1/github/profiles/8528674/views/day-week-month-total-count.svg)](https://u8views.com/github/D-Integral)
 
 <!--
