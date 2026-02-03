@@ -2,8 +2,6 @@
 
 ## GitHub Stats  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Integral" align="center" /></div> 
-
 [![Dmytro Skorokhod profile views](https://u8views.com/api/v1/github/profiles/8528674/views/day-week-month-total-count.svg)](https://u8views.com/github/D-Integral)
 
 <!--
